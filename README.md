@@ -19,7 +19,7 @@
  
    ![image](https://github.com/PedroRepos/Password_Manager_API/assets/120064429/72500c21-d657-48c9-a392-47210cc62fe0)
 
-  # COMO UTILIZAR
+  # Como Utilizar
 
   - Para utilizar, basta clonar o repositório em umas pasta desejada(Não clone na raiz "C:"), aplicar a sua connection string(Padrão SQLSERVER) e usar a vontade.
   - Caso queira utilizar outro banco de dados, você deverá alterar as propriedades no Program ou até mesmo modificar os endpoints para adequar ao Banco.
