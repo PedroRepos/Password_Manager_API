@@ -26,4 +26,4 @@
     
   # Considerações
 
-  - Projeto didádico para treinar alguns conceitos do .NET como, POO, injeção de dependência, HTTP e entre outros. Não aplicado em produção mas está em escopo. Qualquer dúvida em relação a aplicação, só me comunicar.
+  - Projeto didádico para treinar alguns conceitos do .NET como, POO, injeção de dependência, HTTP, ORM e entre outros. Não aplicado em produção mas está em escopo. Qualquer dúvida em relação a aplicação, só me comunicar.
