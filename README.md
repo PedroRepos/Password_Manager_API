@@ -5,7 +5,7 @@
 
 # Password_Manager_API
 
-- Projeto criado em C# com incorporações do ORM Entity Framework, onde o mesmo mapeou o contexto as entidades definidas em código e implementou no SQLSERVER localmente.
+- Projeto criado em C# como um CRUD com incorporações do ORM Entity Framework, onde o mesmo mapeou o contexto as entidades definidas em código e implementou no SQLSERVER localmente.
 
 - Por enquanto, não foi implementado qualquer padrão de segurança de autenticação, visto que farei isso em partes com outros projetos, disponibilizando aqui no GITHUB.
 
